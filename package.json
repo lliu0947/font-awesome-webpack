@@ -1,7 +1,7 @@
 {
-    "name": "font-awesome-webpack",
-    "version": "0.0.5-beta.2",
-    "description": "font-awesome package for webpack",
+    "name": "font-awesome-webpack-2",
+    "version": "1.0.0",
+    "description": "REPACKAGE of font-awesome-webpack package. I DID NOT WRITE THIS, @gowravshekar is the author of the original package! I am simply republishing for use with webpack 2.",
     "main": "index.js",
     "loader": "index.loader.js",
     "scripts": {
@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/gowravshekar/font-awesome-webpack.git"
+        "url": "https://github.com/mattwilliamsdev/font-awesome-webpack.git"
     },
     "keywords": [
         "font-awesome",
@@ -21,7 +21,7 @@
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/gowravshekar/font-awesome-webpack/issues"
+        "url": "https://github.com/mattwilliamsdev/font-awesome-webpack/issues"
     },
     "dependencies": {
         "css-loader": "~0.26.1",
@@ -33,7 +33,7 @@
     },
     "readme": "",
     "readmeFilename": "README.md",
-    "homepage": "https://github.com/gowravshekar/font-awesome-webpack",
-    "_id": "font-awesome-webpack@0.0.1",
-    "_from": "font-awesome-webpack@"
+    "homepage": "https://github.com/mattwilliamsdev/font-awesome-webpack",
+    "_id": "font-awesome-webpack-2@1.0.0",
+    "_from": "font-awesome-webpack-2@"
 }
