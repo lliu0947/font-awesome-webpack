@@ -1,5 +1,5 @@
 {
-    "name": "font-awesome-webpack-2",
+    "name": "font-awesome-webpack-4",
     "version": "1.0.0",
     "description": "REPACKAGE of font-awesome-webpack package. I DID NOT WRITE THIS, @gowravshekar is the author of the original package! I am simply republishing for use with webpack 2.",
     "main": "index.js",
