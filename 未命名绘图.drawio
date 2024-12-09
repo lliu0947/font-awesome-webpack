@@ -541,8 +541,20 @@
             <mxPoint x="1172.75" y="503.9499999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ju3h4By6nS4EC_TViVJi-159" value="gateway API / ingress" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="923.5" y="726" width="136.5" height="54" as="geometry" />
+        <mxCell id="ju3h4By6nS4EC_TViVJi-159" value="gateway API&lt;div&gt;ingress httproute&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="707.5" width="120" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3h4By6nS4EC_TViVJi-160" value="NodePort/Loadbalace service" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="705" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3h4By6nS4EC_TViVJi-161" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1284.75" y="668.75" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3h4By6nS4EC_TViVJi-162" value="/foo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1297" y="656" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3h4By6nS4EC_TViVJi-163" value="/foo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1302.5" y="774" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
